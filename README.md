@@ -1,4 +1,4 @@
-# stylviz
+# stylzed
 
 A personal Python visualization library with a consistent visual style.
 
@@ -8,7 +8,7 @@ pip install stylzed
 ## Usage
 
 ```python
-import stylviz
+import stylzed
 
 stylviz.styled_line(
     x=[1, 2, 3],
@@ -38,5 +38,6 @@ stylzed.styled_box(
     data=[10, 12, 15, 14, 18, 20],
     title="Test Styled Box"
 )
+
 
 
