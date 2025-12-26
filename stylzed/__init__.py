@@ -3,3 +3,4 @@ from .bar import styled_bar
 from .scatter import styled_scatter
 from .hist import styled_hist
 from .box import styled_box
+from .election_viz import get_interactive_map
